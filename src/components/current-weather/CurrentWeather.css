@@ -1,0 +1,19 @@
+.bot-row {
+    width: 200px;
+    margin-left: 44%;
+}
+
+.parameter-value {
+    float: right;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    margin-bottom: 10px;
+    text-align: left;
+}
+
